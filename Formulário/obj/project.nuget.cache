@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePpdtEV71MTpdS+guWxgfJqnl4HYvq8zKIZGJiHk5juZOifwm6evyNw7dRA0v/6iPIJaK5LIDpjR7UqGX5aXIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\TLP\\Projetos de TLP\\CSharp\\Formulário\\Formulário.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
